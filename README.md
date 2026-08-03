@@ -140,8 +140,6 @@ Business Insights
 dataset/
 excel/
 sql/
-report/
-screenshots/
 docs/
 
 ---
